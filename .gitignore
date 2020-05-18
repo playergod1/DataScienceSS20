@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb
